@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397561480901",
+    "project_id": "myshop-b41f8",
+    "storage_bucket": "myshop-b41f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397561480901:android:82f5ea6fddaea06964d2ac",
+        "android_client_info": {
+          "package_name": "nesty.anzhy.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397561480901-5277v422v9q36skfmpa1sfg99o8dpm19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nesty.anzhy.shopapp",
+            "certificate_hash": "46ba50201012423c731f0f2ecb1b56339206f0ed"
+          }
+        },
+        {
+          "client_id": "397561480901-bk32no3v76uc00hlu92qq47kjmp6r19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnM11vfZXfUJmFlUN8ciLoMGYStppCTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397561480901-bk32no3v76uc00hlu92qq47kjmp6r19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
